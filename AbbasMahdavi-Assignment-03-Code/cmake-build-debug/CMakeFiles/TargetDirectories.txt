@@ -1,0 +1,3 @@
+C:/Users/abbas/OneDrive/Desktop/CSC 340/AbbasMahdavi-Assignment-03/AbbasMahdavi-Assignment-03-Code/cmake-build-debug/CMakeFiles/AbbasMahdavi_Assignment_03_Code.dir
+C:/Users/abbas/OneDrive/Desktop/CSC 340/AbbasMahdavi-Assignment-03/AbbasMahdavi-Assignment-03-Code/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/abbas/OneDrive/Desktop/CSC 340/AbbasMahdavi-Assignment-03/AbbasMahdavi-Assignment-03-Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
